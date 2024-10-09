@@ -37,3 +37,15 @@ def shr(n,p):
  curve02(0.85,180)
  end_fill()
  #Llamado del shard.
+shr(200,200)
+penup()
+home()
+pendown()
+#Llamado del shard.
+shr(-15,200)
+penup()
+home()
+pendown()
+#Llamado del shard.
+shr(90,200)
+done()              
