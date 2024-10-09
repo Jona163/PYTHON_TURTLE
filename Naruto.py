@@ -1,6 +1,6 @@
 # Autor: Jonathan Hernández
 # Fecha: 9/10/24
-# Descripción: Código para usar turtle.
+# Descripción: Código para usar turtle(naruto).
 # GitHub: https://github.com/Jona163
 
 from turtle import *
