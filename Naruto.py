@@ -53,3 +53,25 @@ right(73)
 forward(82)
 left(136)
 forward(60)
+
+pensize(3)
+left(70)
+forward(15)
+right(59)
+def curve01(a,d):
+ for i in range(d):
+  right(a)
+  forward(1)
+
+def curve02(a,d):
+ for i in range(d):
+  left(a)
+  forward(1)
+
+curve01(0.1,260)
+curve01(0.2,80)
+left(6)
+curve01(0.1,90)
+right(60)
+forward(11)
+end_fill()
