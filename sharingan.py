@@ -12,3 +12,13 @@ dot(500)
 pencolor('red')
 dot(475)
 #Funcion curva01
+def curve01(a,d):
+ for i in range(d):
+  right(a)
+  forward(1)
+def curve02(a,d):
+ for i in range(d):
+  left(a)
+  forward(1)
+pencolor('black')
+#Funcion para el sharingan
