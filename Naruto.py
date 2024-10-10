@@ -3,6 +3,7 @@
 # Descripción: Código para usar turtle(naruto).
 # GitHub: https://github.com/Jona163
 
+#Naruto.py
 from turtle import *
 pencolor("red")
 pensize(8)
